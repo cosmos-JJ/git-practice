@@ -1,14 +1,6 @@
 team: Tigers
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 manager: Brenda
-=======
-manager: Kenneth
->>>>>>> to-merge
-=======
-manager: Kenneth
->>>>>>> d3f7d34 (Edit Tigers members)
 
 coach: Ruth
 
@@ -18,3 +10,4 @@ members:
 - David
 - George
 - Tyler
+- Kim
